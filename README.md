@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>
-    <a href="{https://jocular-malasada-c99c9c.netlify.app/}">
+    <a href="https://jocular-malasada-c99c9c.netlify.app/">
       Demo
     </a>
     <span> | </span>
